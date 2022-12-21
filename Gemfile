@@ -18,7 +18,7 @@ gem "i18n", "~> 0.7"
 gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'jquery-cdn'
-gem 'sprockets'
+gem 'sprockets', '>= 4.2.0'
 gem 'ffi', "1.15.5"
 gem 'backports', "3.23.0"
 
