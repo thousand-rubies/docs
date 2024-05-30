@@ -6,9 +6,9 @@ gem 'activesupport'
 gem "erector", "~> 0.10.0"
 gem "sinatra", "~> 1.4.0"
 gem "sinatra-contrib", "~> 1.4.0"
-gem "nokogiri"
+gem "nokogiri", ">= 1.16.5"
 gem "thin", "1.8.1"
-gem 'rack-codehighlighter'
+gem 'rack-codehighlighter', '>= 0.6.0'
 gem 'coderay'
 gem "deckrb", "~> 0.5.2"
 gem "sass"
