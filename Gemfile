@@ -7,7 +7,7 @@ gem "erector", "~> 0.10.0"
 gem "sinatra", "~> 1.4.0"
 gem "sinatra-contrib", "~> 1.4.0"
 gem "nokogiri"
-gem "thin", "1.8.1"
+gem "thin", "2.0.0"
 gem 'rack-codehighlighter'
 gem 'coderay'
 gem "deckrb", "~> 0.5.2"
